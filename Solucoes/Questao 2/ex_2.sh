@@ -1,0 +1,1 @@
+ls C:/Users/b51083/Documents/ColdplayAlbum | awk -F. '{print $1}' > resposta_ex_2
