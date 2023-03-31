@@ -1,0 +1,1 @@
+ls C:/Users/b51083/Documents/ColdplayAlbum | wc -l > resposta_ex_1.txt
