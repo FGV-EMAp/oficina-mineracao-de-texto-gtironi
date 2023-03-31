@@ -1,0 +1,1 @@
+cat C:/Users/b51083/Documents/ColdplayAlbum/*.txt | wc -w > resposta_ex_3.txt
