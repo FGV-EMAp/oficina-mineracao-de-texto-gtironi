@@ -1,0 +1,1 @@
+cat C:/Users/b51083/Documents/ColdplayAlbum/*.txt | sed 's/ /\n/g' | sed -E 's/[[:punct:]]//' | sed -r '/^[\s\t]*$/d' | sort -bf | uniq -ci | sort -nr > resposta_ex_4.txt
